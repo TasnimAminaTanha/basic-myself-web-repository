@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 2px;
+}
+
+main header{
+  
+}
+
+div{
+    display:flex;
+    background-color: rgb(35, 35, 97);
+   
+}
+
+img{
+    width:400px;
+    border-radius: 0 200px ;
+    border: 10px solid white;
+    box-shadow: 30px 30px gray 20px;
+}
+
+p{
+    display: block;
+    text-align: center;
+    align-content: space-around;
+    font-size: 40px;
+    justify-content:right;
+     margin: 0 150px;
+     color: white;
+}
+h3{
+    font-size: 40px;
+}
+
+h1{
+    font-size: 60px;
+}
