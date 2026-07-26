@@ -1,0 +1,10 @@
+article{
+    font-family:'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+footer{
+    background-color: rgb(35, 35, 97);
+    color: white;
+    text-align: center;
+}
